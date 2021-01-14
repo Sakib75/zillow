@@ -1,0 +1,814 @@
+[
+    {
+        "id": "25.810583--80.186527",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISfsi9mgyu35s30000000000.jpg",
+        "detail_url": "/b/charter-club-on-the-bay-miami-fl-5XjZF3/",
+        "status_type": "FOR_RENT",
+        "status_text": "For Rent",
+        "address": "600 NE 36th St, Miami, FL",
+        "longitude": -80.186527
+    },
+    {
+        "id": "2078311202",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISvwol0fz7qz741000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/1173-NW-65th-St-1173-Miami-FL-33150/2078311202_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "Apartment for rent",
+        "price": "$1,250/mo",
+        "address": "1173 NW 65th St #1173, Miami, FL 33150",
+        "beds": 2,
+        "baths": 1.0,
+        "area_sqft": 800,
+        "longitude": -80.216271
+    },
+    {
+        "id": "25.86556--80.329888",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS3f8bir6k8djt0000000000.jpg",
+        "detail_url": "/b/10090-nw-80th-ct-hialeah-fl-5XmLRr/",
+        "status_type": "FOR_RENT",
+        "status_text": "For Rent",
+        "address": "10090 NW 80th Ct, Miami Lakes, FL",
+        "longitude": -80.329888
+    },
+    {
+        "id": "43828842",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISne93z6dmzpna1000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/263-NE-58th-Ter-Miami-FL-33137/43828842_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "Townhouse for rent",
+        "price": "$2,200/mo",
+        "address": "263 NE 58th Ter, Miami, FL 33137",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1644,
+        "longitude": -80.190549
+    },
+    {
+        "id": "25.775907--80.353798",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS33jzy8ftfhq70000000000.jpg",
+        "detail_url": "/b/doral-view-miami-fl-5ZMmqd/",
+        "status_type": "FOR_RENT",
+        "status_text": "Doral View",
+        "address": "901 NW 97th Ave, Miami, FL",
+        "longitude": -80.353798
+    },
+    {
+        "id": "44146959",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS7q36x10fpbbf0000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/10286-NW-9th-Street-Cir-APT-204-Miami-FL-33172/44146959_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "Apartment for rent",
+        "price": "$1,800/mo",
+        "address": "10286 NW 9th Street Cir APT 204, Miami, FL 33172",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1275,
+        "longitude": -80.362628
+    },
+    {
+        "id": "2100610842",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISnys7v4ecfgp11000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/Indian-Creek-Dr-Miami-Beach-FL-33141/2100610842_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "Apartment for rent",
+        "price": "$1,250/mo",
+        "address": "Indian Creek Dr, Miami Beach, FL 33141",
+        "beds": 0,
+        "baths": 1.0,
+        "area_sqft": 400,
+        "broker_name": "Keller Williams Eagle Realty"
+    },
+    {
+        "id": "2078311684",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISf8nrvovwbt9l0000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/2285-SW-19th-St-APT-1-Miami-FL-33145/2078311684_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "Apartment for rent",
+        "price": "$1,300/mo",
+        "address": "2285 SW 19th St APT 1, Miami, FL 33145",
+        "beds": 1,
+        "baths": 1.0,
+        "area_sqft": 650,
+        "longitude": -80.23201
+    },
+    {
+        "id": "44231458",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISvs1pkd0ftqde0000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/14260-SW-25th-Ter-Miami-FL-33175/44231458_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "House for rent",
+        "price": "$2,500/mo",
+        "address": "14260 SW 25th Ter, Miami, FL 33175",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1567,
+        "longitude": -80.425335
+    },
+    {
+        "id": "25.786168--80.220964",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISrhussmwvoyn01000000000.jpg",
+        "detail_url": "/b/lantower-river-landing-miami-fl-9pprHc/",
+        "status_type": "FOR_RENT",
+        "status_text": "Lantower River Landing",
+        "address": "1480 NW North River Dr, Miami, FL",
+        "longitude": -80.220964
+    },
+    {
+        "id": "25.688918--80.436741",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS7qr0txtrr00q1000000000.jpg",
+        "detail_url": "/b/bridges-at-kendall-place-miami-fl-65YRYL/",
+        "status_type": "FOR_RENT",
+        "status_text": "Bridges At Kendall Place",
+        "address": "8485 Hammocks Blvd, Miami, FL",
+        "longitude": -80.436741
+    },
+    {
+        "id": "25.81907--80.334655",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISv867ykz42baa1000000000.jpg",
+        "detail_url": "/b/5250-park-doral-fl-BNtmKy/",
+        "status_type": "FOR_RENT",
+        "status_text": "5250 Park",
+        "address": "5250 NW 84th Ave, Doral, FL",
+        "longitude": -80.334655
+    },
+    {
+        "id": "2078312362",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISbp1zezpdy4491000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/0-El-Portal-Miami-FL-33150/2078312362_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "House for rent",
+        "price": "$2,895/mo",
+        "address": "0 El Portal, Miami, FL 33150",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 2434,
+        "longitude": -80.207327,
+        "broker_name": "Aventura Office"
+    },
+    {
+        "id": "25.746293--80.257011",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS7uud084fbnu20000000000.jpg",
+        "detail_url": "/b/the-reserve-at-the-plaza-coral-gables-fl-BPFfnW/",
+        "status_type": "FOR_RENT",
+        "status_text": "The Reserve at the Plaza",
+        "address": "122 Sevilla Ave, Miami, FL",
+        "longitude": -80.257011
+    },
+    {
+        "id": "25.801883--80.201704",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS3r1icy9r93qc1000000000.jpg",
+        "detail_url": "/b/landing-furnished-apartments-in-miami%3a-monthly-leases,-%240-deposit-miami-fl-9QChPM/",
+        "status_type": "FOR_RENT",
+        "status_text": "Landing Furnished Apartments in Miami: Monthly Leases, $0 Deposit",
+        "address": "360 NW 27th St, Miami, FL",
+        "longitude": -80.201704
+    },
+    {
+        "id": "25.863763--80.25587",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS7idw1kwe1ucj0000000000.jpg",
+        "detail_url": "/b/avalon-bonterra-hialeah-fl-9n8nbV/",
+        "status_type": "FOR_RENT",
+        "status_text": "Avalon Bonterra",
+        "address": "3545 W 98th St, Hialeah, FL",
+        "longitude": -80.25587
+    },
+    {
+        "id": "25.801161--80.189415",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISb5qghpmyq9q81000000000.jpg",
+        "detail_url": "/b/wynwood-bay-miami-fl-9CycwQ/",
+        "status_type": "FOR_RENT",
+        "status_text": "Wynwood Bay",
+        "address": "2500 Biscayne Blvd, Miami, FL",
+        "longitude": -80.189415
+    },
+    {
+        "id": "25.764318--80.194229",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISali9r3hzu3md0000000000.jpg",
+        "detail_url": "/b/camden-brickell-miami-fl-5XhxF4/",
+        "status_type": "FOR_RENT",
+        "status_text": "Camden Brickell",
+        "address": "50 SW 10th St, Miami, FL",
+        "longitude": -80.194229
+    },
+    {
+        "id": "44314839",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISrl5gdg5vc1fi0000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/10030-Hammocks-Blvd-APT-202-3-Miami-FL-33196/44314839_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "Apartment for rent",
+        "price": "$1,950/mo",
+        "address": "10030 Hammocks Blvd APT 202-3, Miami, FL 33196",
+        "beds": 2,
+        "baths": 2.5,
+        "area_sqft": 1350,
+        "longitude": -80.445211
+    },
+    {
+        "id": "25.751756--80.303437",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISb1nr00xdyaoj0000000000.jpg",
+        "detail_url": "/b/district-west-gables-west-miami-fl-9CzKzd/",
+        "status_type": "FOR_RENT",
+        "status_text": "District West Gables",
+        "address": "2001 Ludlam Rd, Miami, FL",
+        "longitude": -80.303437
+    },
+    {
+        "id": "25.782308--80.19491",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISvw0jy0l3grj60000000000.jpg",
+        "detail_url": "/b/bayview-towers-miami-fl-5XjZfF/",
+        "status_type": "FOR_RENT",
+        "status_text": "For Rent",
+        "address": "800 N Miami Ave, Miami, FL",
+        "longitude": -80.19491
+    },
+    {
+        "id": "25.787354--80.144608",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISfovgxa9bznwy0000000000.jpg",
+        "detail_url": "/b/flamingo-point-center-tower-miami-beach-fl-5XkJMR/",
+        "status_type": "FOR_RENT",
+        "status_text": "Flamingo Point Center Tower",
+        "address": "1508 Bay Rd, Miami Beach, FL",
+        "longitude": -80.144608
+    },
+    {
+        "id": "25.816596--80.370519",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISvouk9rrcp6sa1000000000.jpg",
+        "detail_url": "/b/camden-doral-doral-fl-5gpzZ3/",
+        "status_type": "FOR_RENT",
+        "status_text": "Camden Doral",
+        "address": "4790 NW 107th Ave, Miami, FL",
+        "longitude": -80.370519
+    },
+    {
+        "id": "43932539",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISjj2q6i6lytp30000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/6973-W-29th-Ave-UNIT-104-Hialeah-FL-33018/43932539_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "Townhouse for rent",
+        "price": "$1,690/mo",
+        "address": "6973 W 29th Ave UNIT 104, Hialeah, FL 33018",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 940,
+        "longitude": -80.340833,
+        "broker_name": "Coral Shores Realty"
+    },
+    {
+        "id": "25.772806--80.135183",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISforxft35a7hg1000000000.jpg",
+        "detail_url": "/b/brooklyn-hotel-miami-beach-fl-5Xm2PV/",
+        "status_type": "FOR_RENT",
+        "status_text": "For Rent",
+        "address": "320 Euclid Ave, Miami Beach, FL",
+        "longitude": -80.135183
+    },
+    {
+        "id": "25.753981--80.261069",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISny8wcrnngjtw0000000000.jpg",
+        "detail_url": "/b/sofia-coral-gables-coral-gables-fl-B8GDNv/",
+        "status_type": "FOR_RENT",
+        "status_text": "Sofia Coral Gables",
+        "address": "2000 Salzedo St, Coral Gables, FL",
+        "longitude": -80.261069
+    },
+    {
+        "id": "25.6866--80.374758",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISfc2681c3898a0000000000.jpg",
+        "detail_url": "/b/harbour-key-miami-fl-5XjWqw/",
+        "status_type": "FOR_RENT",
+        "status_text": "Harbour Key",
+        "address": "11033 N Kendall Dr, Miami, FL",
+        "longitude": -80.374758
+    },
+    {
+        "id": "25.779384--80.142251",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS7uq2heivozo91000000000.jpg",
+        "detail_url": "/b/southgate-towers-luxury-rentals-miami-beach-fl-65WXvp/",
+        "status_type": "FOR_RENT",
+        "status_text": "Southgate Towers Luxury Rentals",
+        "address": "900 West Ave, Miami Beach, FL",
+        "longitude": -80.142251
+    },
+    {
+        "id": "25.753169--80.255812",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISvkrzr7pgri110000000000.jpg",
+        "detail_url": "/b/gables-columbus-center-coral-gables-fl-BKwTnh/",
+        "status_type": "FOR_RENT",
+        "status_text": "Gables Columbus Center",
+        "address": "60 Minorca Ave, Miami, FL",
+        "longitude": -80.255812
+    },
+    {
+        "id": "25.776695--80.188955",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS768wki7uox9f1000000000.jpg",
+        "detail_url": "/b/244-biscayne-blvd-miami-fl-5Xj48F/",
+        "status_type": "FOR_RENT",
+        "status_text": "For Rent",
+        "address": "244 Biscayne Blvd, Miami, FL",
+        "longitude": -80.188955
+    },
+    {
+        "id": "25.77897--80.330111",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISf4oprrrzpone1000000000.jpg",
+        "detail_url": "/b/8251-NW-8th-St-Miami-FL/25.77897,-80.330111_ll/",
+        "status_type": "FOR_RENT",
+        "status_text": "For Rent",
+        "address": "8251 NW 8th St, Miami, FL",
+        "longitude": -80.330111
+    },
+    {
+        "id": "25.88786--80.160247",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS3jro421mauoe1000000000.jpg",
+        "detail_url": "/b/sutton-house-condominiums-miami-fl-5Xmn6x/",
+        "status_type": "FOR_RENT",
+        "status_text": "For Rent",
+        "address": "1885 NE 121st St, North Miami, FL",
+        "longitude": -80.160247
+    },
+    {
+        "id": "2110470884",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS3z7ojfzk8jpe1000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/8125-Crespi-Blvd-APT-2-Miami-FL-33141/2110470884_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "Condo for rent",
+        "price": "$2,899/mo",
+        "address": "8125 Crespi Blvd APT 2, Miami, FL 33141",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1768,
+        "longitude": -80.12505,
+        "broker_name": "InterConnect Realty LLC"
+    },
+    {
+        "id": "25.809841--80.32531",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS3nm3s3yjh62y1000000000.jpg",
+        "detail_url": "/b/avalon-doral-doral-fl-Bk7wQ7/",
+        "status_type": "FOR_RENT",
+        "status_text": "Avalon Doral",
+        "address": "3940 NW 79th Ave, Miami, FL",
+        "longitude": -80.32531
+    },
+    {
+        "id": "25.765258--80.226946",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISblyhovc6wglp0000000000.jpg",
+        "detail_url": "/b/intown-miami-fl-5ZJ7Z4/",
+        "status_type": "FOR_RENT",
+        "status_text": "Intown",
+        "address": "1900 SW 8th St, Miami, FL",
+        "longitude": -80.226946
+    },
+    {
+        "id": "25.815703--80.381829",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISzbzub94uctwi0000000000.jpg",
+        "detail_url": "/b/camden-doral-villas-doral-fl-5g3krx/",
+        "status_type": "FOR_RENT",
+        "status_text": "Camden Doral Villas",
+        "address": "4600 NW 114th Ave, Miami, FL",
+        "longitude": -80.381829
+    },
+    {
+        "id": "25.762801--80.189042",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISi7tu27xv9cgt0000000000.jpg",
+        "detail_url": "/b/yacht-club-apartments-miami-fl-5XhxWm/",
+        "status_type": "FOR_RENT",
+        "status_text": "Yacht Club Apartments",
+        "address": "1111 Brickell Bay Dr, Miami, FL",
+        "longitude": -80.189042
+    },
+    {
+        "id": "2078313754",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS7ajjpnujio8m1000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/SW-29th-St-Miami-FL-33133/2078313754_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "House for rent",
+        "price": "$2,750/mo",
+        "address": "SW 29th St, Miami, FL 33133",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1500
+    },
+    {
+        "id": "25.751035--80.22575",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISbhf8d8bo4s670000000000.jpg",
+        "detail_url": "/b/1895-sw-22nd-street-miami-fl-5j5YrS/",
+        "status_type": "FOR_RENT",
+        "status_text": "For Rent",
+        "address": "1895 SW 22nd St, Miami, FL",
+        "longitude": -80.22575
+    },
+    {
+        "id": "25.712892--80.279002",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISnqevh81hnk4t1000000000.jpg",
+        "detail_url": "/b/the-residences-at-thesis-coral-gables-fl-9rqM6k/",
+        "status_type": "FOR_RENT",
+        "status_text": "The Residences at Thesis",
+        "address": "1340 S Dixie Hwy, Miami, FL",
+        "longitude": -80.279002
+    },
+    {
+        "id": "25.810583--80.186527",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISfsi9mgyu35s30000000000.jpg",
+        "detail_url": "/b/charter-club-on-the-bay-miami-fl-5XjZF3/",
+        "status_type": "FOR_RENT",
+        "status_text": "For Rent",
+        "address": "600 NE 36th St, Miami, FL",
+        "longitude": -80.186527
+    },
+    {
+        "id": "2078311202",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISvwol0fz7qz741000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/1173-NW-65th-St-1173-Miami-FL-33150/2078311202_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "Apartment for rent",
+        "price": "$1,250/mo",
+        "address": "1173 NW 65th St #1173, Miami, FL 33150",
+        "beds": 2,
+        "baths": 1.0,
+        "area_sqft": 800,
+        "longitude": -80.216271
+    },
+    {
+        "id": "25.86556--80.329888",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS3f8bir6k8djt0000000000.jpg",
+        "detail_url": "/b/10090-nw-80th-ct-hialeah-fl-5XmLRr/",
+        "status_type": "FOR_RENT",
+        "status_text": "For Rent",
+        "address": "10090 NW 80th Ct, Miami Lakes, FL",
+        "longitude": -80.329888
+    },
+    {
+        "id": "43828842",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISne93z6dmzpna1000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/263-NE-58th-Ter-Miami-FL-33137/43828842_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "Townhouse for rent",
+        "price": "$2,200/mo",
+        "address": "263 NE 58th Ter, Miami, FL 33137",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1644,
+        "longitude": -80.190549
+    },
+    {
+        "id": "25.775907--80.353798",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS33jzy8ftfhq70000000000.jpg",
+        "detail_url": "/b/doral-view-miami-fl-5ZMmqd/",
+        "status_type": "FOR_RENT",
+        "status_text": "Doral View",
+        "address": "901 NW 97th Ave, Miami, FL",
+        "longitude": -80.353798
+    },
+    {
+        "id": "44146959",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS7q36x10fpbbf0000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/10286-NW-9th-Street-Cir-APT-204-Miami-FL-33172/44146959_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "Apartment for rent",
+        "price": "$1,800/mo",
+        "address": "10286 NW 9th Street Cir APT 204, Miami, FL 33172",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1275,
+        "longitude": -80.362628
+    },
+    {
+        "id": "2100610842",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISnys7v4ecfgp11000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/Indian-Creek-Dr-Miami-Beach-FL-33141/2100610842_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "Apartment for rent",
+        "price": "$1,250/mo",
+        "address": "Indian Creek Dr, Miami Beach, FL 33141",
+        "beds": 0,
+        "baths": 1.0,
+        "area_sqft": 400,
+        "broker_name": "Keller Williams Eagle Realty"
+    },
+    {
+        "id": "2078311684",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISf8nrvovwbt9l0000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/2285-SW-19th-St-APT-1-Miami-FL-33145/2078311684_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "Apartment for rent",
+        "price": "$1,300/mo",
+        "address": "2285 SW 19th St APT 1, Miami, FL 33145",
+        "beds": 1,
+        "baths": 1.0,
+        "area_sqft": 650,
+        "longitude": -80.23201
+    },
+    {
+        "id": "44231458",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISvs1pkd0ftqde0000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/14260-SW-25th-Ter-Miami-FL-33175/44231458_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "House for rent",
+        "price": "$2,500/mo",
+        "address": "14260 SW 25th Ter, Miami, FL 33175",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1567,
+        "longitude": -80.425335
+    },
+    {
+        "id": "25.786168--80.220964",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISrhussmwvoyn01000000000.jpg",
+        "detail_url": "/b/lantower-river-landing-miami-fl-9pprHc/",
+        "status_type": "FOR_RENT",
+        "status_text": "Lantower River Landing",
+        "address": "1480 NW North River Dr, Miami, FL",
+        "longitude": -80.220964
+    },
+    {
+        "id": "25.688918--80.436741",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS376oogbxtvd31000000000.jpg",
+        "detail_url": "/b/bridges-at-kendall-place-miami-fl-65YRYL/",
+        "status_type": "FOR_RENT",
+        "status_text": "Bridges At Kendall Place",
+        "address": "8485 Hammocks Blvd, Miami, FL",
+        "longitude": -80.436741
+    },
+    {
+        "id": "25.81907--80.334655",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISblavyx7li5aa1000000000.jpg",
+        "detail_url": "/b/5250-park-doral-fl-BNtmKy/",
+        "status_type": "FOR_RENT",
+        "status_text": "5250 Park",
+        "address": "5250 NW 84th Ave, Doral, FL",
+        "longitude": -80.334655
+    },
+    {
+        "id": "2078312362",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISbp1zezpdy4491000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/0-El-Portal-Miami-FL-33150/2078312362_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "House for rent",
+        "price": "$2,895/mo",
+        "address": "0 El Portal, Miami, FL 33150",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 2434,
+        "longitude": -80.207327,
+        "broker_name": "Aventura Office"
+    },
+    {
+        "id": "25.746293--80.257011",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISfg9u6flvz0p20000000000.jpg",
+        "detail_url": "/b/the-reserve-at-the-plaza-coral-gables-fl-BPFfnW/",
+        "status_type": "FOR_RENT",
+        "status_text": "The Reserve at the Plaza",
+        "address": "122 Sevilla Ave, Miami, FL",
+        "longitude": -80.257011
+    },
+    {
+        "id": "25.801883--80.201704",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISvkz5ur5j16qc1000000000.jpg",
+        "detail_url": "/b/landing-furnished-apartments-in-miami%3a-monthly-leases,-%240-deposit-miami-fl-9QChPM/",
+        "status_type": "FOR_RENT",
+        "status_text": "Landing Furnished Apartments in Miami: Monthly Leases, $0 Deposit",
+        "address": "360 NW 27th St, Miami, FL",
+        "longitude": -80.201704
+    },
+    {
+        "id": "25.863763--80.25587",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS7idw1kwe1ucj0000000000.jpg",
+        "detail_url": "/b/avalon-bonterra-hialeah-fl-9n8nbV/",
+        "status_type": "FOR_RENT",
+        "status_text": "Avalon Bonterra",
+        "address": "3545 W 98th St, Hialeah, FL",
+        "longitude": -80.25587
+    },
+    {
+        "id": "25.801161--80.189415",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISjjyejxs0xkta0000000000.jpg",
+        "detail_url": "/b/wynwood-bay-miami-fl-9CycwQ/",
+        "status_type": "FOR_RENT",
+        "status_text": "Wynwood Bay",
+        "address": "2500 Biscayne Blvd, Miami, FL",
+        "longitude": -80.189415
+    },
+    {
+        "id": "25.764318--80.194229",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISvoalob7r2s921000000000.jpg",
+        "detail_url": "/b/camden-brickell-miami-fl-5XhxF4/",
+        "status_type": "FOR_RENT",
+        "status_text": "Camden Brickell",
+        "address": "50 SW 10th St, Miami, FL",
+        "longitude": -80.194229
+    },
+    {
+        "id": "44314839",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISrl5gdg5vc1fi0000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/10030-Hammocks-Blvd-APT-202-3-Miami-FL-33196/44314839_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "Apartment for rent",
+        "price": "$1,950/mo",
+        "address": "10030 Hammocks Blvd APT 202-3, Miami, FL 33196",
+        "beds": 2,
+        "baths": 2.5,
+        "area_sqft": 1350,
+        "longitude": -80.445211
+    },
+    {
+        "id": "25.751756--80.303437",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISbx7lqa2u2a2w1000000000.jpg",
+        "detail_url": "/b/district-west-gables-west-miami-fl-9CzKzd/",
+        "status_type": "FOR_RENT",
+        "status_text": "District West Gables",
+        "address": "2001 Ludlam Rd, Miami, FL",
+        "longitude": -80.303437
+    },
+    {
+        "id": "25.782308--80.19491",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISvw0jy0l3grj60000000000.jpg",
+        "detail_url": "/b/bayview-towers-miami-fl-5XjZfF/",
+        "status_type": "FOR_RENT",
+        "status_text": "For Rent",
+        "address": "800 N Miami Ave, Miami, FL",
+        "longitude": -80.19491
+    },
+    {
+        "id": "25.787354--80.144608",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISnu9uoarl3jz30000000000.jpg",
+        "detail_url": "/b/flamingo-point-center-tower-miami-beach-fl-5XkJMR/",
+        "status_type": "FOR_RENT",
+        "status_text": "Flamingo Point Center Tower",
+        "address": "1508 Bay Rd, Miami Beach, FL",
+        "longitude": -80.144608
+    },
+    {
+        "id": "25.816596--80.370519",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISv4zq5ddundjh1000000000.jpg",
+        "detail_url": "/b/camden-doral-doral-fl-5gpzZ3/",
+        "status_type": "FOR_RENT",
+        "status_text": "Camden Doral",
+        "address": "4790 NW 107th Ave, Miami, FL",
+        "longitude": -80.370519
+    },
+    {
+        "id": "43932539",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISjj2q6i6lytp30000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/6973-W-29th-Ave-UNIT-104-Hialeah-FL-33018/43932539_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "Townhouse for rent",
+        "price": "$1,690/mo",
+        "address": "6973 W 29th Ave UNIT 104, Hialeah, FL 33018",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 940,
+        "longitude": -80.340833,
+        "broker_name": "Coral Shores Realty"
+    },
+    {
+        "id": "25.772806--80.135183",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISforxft35a7hg1000000000.jpg",
+        "detail_url": "/b/brooklyn-hotel-miami-beach-fl-5Xm2PV/",
+        "status_type": "FOR_RENT",
+        "status_text": "For Rent",
+        "address": "320 Euclid Ave, Miami Beach, FL",
+        "longitude": -80.135183
+    },
+    {
+        "id": "25.753981--80.261069",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISny8wcrnngjtw0000000000.jpg",
+        "detail_url": "/b/sofia-coral-gables-coral-gables-fl-B8GDNv/",
+        "status_type": "FOR_RENT",
+        "status_text": "Sofia Coral Gables",
+        "address": "2000 Salzedo St, Coral Gables, FL",
+        "longitude": -80.261069
+    },
+    {
+        "id": "25.6866--80.374758",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISfc2681c3898a0000000000.jpg",
+        "detail_url": "/b/harbour-key-miami-fl-5XjWqw/",
+        "status_type": "FOR_RENT",
+        "status_text": "Harbour Key",
+        "address": "11033 N Kendall Dr, Miami, FL",
+        "longitude": -80.374758
+    },
+    {
+        "id": "25.779384--80.142251",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS7uq2heivozo91000000000.jpg",
+        "detail_url": "/b/southgate-towers-luxury-rentals-miami-beach-fl-65WXvp/",
+        "status_type": "FOR_RENT",
+        "status_text": "Southgate Towers Luxury Rentals",
+        "address": "900 West Ave, Miami Beach, FL",
+        "longitude": -80.142251
+    },
+    {
+        "id": "25.753169--80.255812",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISb52a0tw9yac90000000000.jpg",
+        "detail_url": "/b/gables-columbus-center-coral-gables-fl-BKwTnh/",
+        "status_type": "FOR_RENT",
+        "status_text": "Gables Columbus Center",
+        "address": "60 Minorca Ave, Miami, FL",
+        "longitude": -80.255812
+    },
+    {
+        "id": "25.776695--80.188955",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS768wki7uox9f1000000000.jpg",
+        "detail_url": "/b/244-biscayne-blvd-miami-fl-5Xj48F/",
+        "status_type": "FOR_RENT",
+        "status_text": "For Rent",
+        "address": "244 Biscayne Blvd, Miami, FL",
+        "longitude": -80.188955
+    },
+    {
+        "id": "25.88786--80.160247",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS3jro421mauoe1000000000.jpg",
+        "detail_url": "/b/sutton-house-condominiums-miami-fl-5Xmn6x/",
+        "status_type": "FOR_RENT",
+        "status_text": "For Rent",
+        "address": "1885 NE 121st St, North Miami, FL",
+        "longitude": -80.160247
+    },
+    {
+        "id": "25.77897--80.330111",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISf4oprrrzpone1000000000.jpg",
+        "detail_url": "/b/8251-NW-8th-St-Miami-FL/25.77897,-80.330111_ll/",
+        "status_type": "FOR_RENT",
+        "status_text": "For Rent",
+        "address": "8251 NW 8th St, Miami, FL",
+        "longitude": -80.330111
+    },
+    {
+        "id": "2110470884",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS3z7ojfzk8jpe1000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/8125-Crespi-Blvd-APT-2-Miami-FL-33141/2110470884_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "Condo for rent",
+        "price": "$2,899/mo",
+        "address": "8125 Crespi Blvd APT 2, Miami, FL 33141",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1768,
+        "longitude": -80.12505,
+        "broker_name": "InterConnect Realty LLC"
+    },
+    {
+        "id": "25.809841--80.32531",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS3nm3s3yjh62y1000000000.jpg",
+        "detail_url": "/b/avalon-doral-doral-fl-Bk7wQ7/",
+        "status_type": "FOR_RENT",
+        "status_text": "Avalon Doral",
+        "address": "3940 NW 79th Ave, Miami, FL",
+        "longitude": -80.32531
+    },
+    {
+        "id": "25.765258--80.226946",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISnupq0apyppi81000000000.jpg",
+        "detail_url": "/b/intown-miami-fl-5ZJ7Z4/",
+        "status_type": "FOR_RENT",
+        "status_text": "Intown",
+        "address": "1900 SW 8th St, Miami, FL",
+        "longitude": -80.226946
+    },
+    {
+        "id": "25.815703--80.381829",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISzbzub94uctwi0000000000.jpg",
+        "detail_url": "/b/camden-doral-villas-doral-fl-5g3krx/",
+        "status_type": "FOR_RENT",
+        "status_text": "Camden Doral Villas",
+        "address": "4600 NW 114th Ave, Miami, FL",
+        "longitude": -80.381829
+    },
+    {
+        "id": "25.762801--80.189042",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS6mkoj7hgddih0000000000.jpg",
+        "detail_url": "/b/yacht-club-apartments-miami-fl-5XhxWm/",
+        "status_type": "FOR_RENT",
+        "status_text": "Yacht Club Apartments",
+        "address": "1111 Brickell Bay Dr, Miami, FL",
+        "longitude": -80.189042
+    },
+    {
+        "id": "2078313754",
+        "img_src": "https://photos.zillowstatic.com/p_e/IS7ajjpnujio8m1000000000.jpg",
+        "detail_url": "https://www.zillow.com/homedetails/SW-29th-St-Miami-FL-33133/2078313754_zpid/",
+        "status_type": "FOR_RENT",
+        "status_text": "House for rent",
+        "price": "$2,750/mo",
+        "address": "SW 29th St, Miami, FL 33133",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1500
+    },
+    {
+        "id": "25.751035--80.22575",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISbhf8d8bo4s670000000000.jpg",
+        "detail_url": "/b/1895-sw-22nd-street-miami-fl-5j5YrS/",
+        "status_type": "FOR_RENT",
+        "status_text": "For Rent",
+        "address": "1895 SW 22nd St, Miami, FL",
+        "longitude": -80.22575
+    },
+    {
+        "id": "25.712892--80.279002",
+        "img_src": "https://photos.zillowstatic.com/p_e/ISnedy9729wwe10000000000.jpg",
+        "detail_url": "/b/the-residences-at-thesis-coral-gables-fl-9rqM6k/",
+        "status_type": "FOR_RENT",
+        "status_text": "The Residences at Thesis",
+        "address": "1340 S Dixie Hwy, Miami, FL",
+        "longitude": -80.279002
+    }
+]

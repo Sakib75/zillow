@@ -1,0 +1,2151 @@
+{
+    "user": {
+        "isLoggedIn": false,
+        "hasHousingConnectorPermission": false,
+        "savedSearchCount": 0,
+        "savedHomesCount": 0,
+        "personalizedSearchGaDataTag": null,
+        "personalizedSearchTraceID": "5f3155a5d4e1f11c6bf2266834224994",
+        "isFirstSRPVisitInSession": true,
+        "searchPageRenderedCount": 0,
+        "guid": "93ebdc0b-9bca-44e1-a48b-a1bd01075079",
+        "zuid": "",
+        "isBot": false
+    },
+    "mapState": {
+        "customRegionPolygonWkt": null,
+        "schoolPolygonWkt": null,
+        "regionBounds": null
+    },
+    "searchPageSeoObject": {
+        "baseUrl": "/homes/for_rent/",
+        "windowTitle": "Rental Listings - 4,458 Rentals | Zillow",
+        "metaDescription": "This is a list of all of the rental listings matching. Don't forget to use the filters and set up a saved search."
+    },
+    "requestId": 4,
+    "cat1": {
+        "searchResults": {
+            "listResults": [
+                {
+                    "zpid": "25.775907--80.353798",
+                    "id": "25.775907--80.353798",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/IS33jzy8ftfhq70000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Doral View",
+                    "detailUrl": "/b/doral-view-miami-fl-5ZMmqd/",
+                    "latLong": {
+                        "latitude": 25.775907,
+                        "longitude": -80.353798
+                    },
+                    "units": [
+                        {
+                            "price": "$1,545+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$1,706+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$1,872+",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "Doral View",
+                    "isBuilding": true,
+                    "address": "901 NW 97th Ave, Miami, FL",
+                    "addressStreet": "901 NW 97th Ave # 3365855",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33172",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "44146959",
+                    "id": "44146959",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/IS7q36x10fpbbf0000000000.jpg",
+                    "hasImage": true,
+                    "detailUrl": "https://www.zillow.com/homedetails/10286-NW-9th-Street-Cir-APT-204-Miami-FL-33172/44146959_zpid/",
+                    "statusType": "FOR_RENT",
+                    "statusText": "Apartment for rent",
+                    "countryCurrency": "$",
+                    "price": "$1,800/mo",
+                    "unformattedPrice": 1800,
+                    "address": "10286 NW 9th Street Cir APT 204, Miami, FL 33172",
+                    "addressStreet": "10286 NW 9th Street Cir APT 204",
+                    "addressCity": "Miami",
+                    "addressState": "FL",
+                    "addressZipcode": "33172",
+                    "beds": 3,
+                    "baths": 2.0,
+                    "area": 1275,
+                    "latLong": {
+                        "latitude": 25.776299,
+                        "longitude": -80.362628
+                    },
+                    "isZillowOwned": false,
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "32 minutes ago",
+                        "data": {
+                            "isFresh": true
+                        }
+                    },
+                    "hdpData": {
+                        "homeInfo": {
+                            "zpid": 44146959,
+                            "streetAddress": "10286 NW 9th Street Cir APT 204",
+                            "zipcode": "33172",
+                            "city": "Miami",
+                            "state": "FL",
+                            "latitude": -80.362628,
+                            "price": 1800.0,
+                            "dateSold": 1167897600000,
+                            "bathrooms": 2.0,
+                            "bedrooms": 3.0,
+                            "livingArea": 1275.0,
+                            "homeType": "APARTMENT",
+                            "homeStatus": "FOR_RENT",
+                            "photoCount": 7,
+                            "imageLink": "https://photos.zillowstatic.com/p_g/IS7q36x10fpbbf0000000000.jpg",
+                            "daysOnZillow": 0,
+                            "isFeatured": false,
+                            "shouldHighlight": false,
+                            "brokerId": 12760,
+                            "isRentalWithBasePrice": false,
+                            "rentZestimate": 1950,
+                            "listing_sub_type": {},
+                            "isUnmappable": false,
+                            "mediumImageLink": "https://photos.zillowstatic.com/p_c/IS7q36x10fpbbf0000000000.jpg",
+                            "isPreforeclosureAuction": false,
+                            "homeStatusForHDP": "FOR_RENT",
+                            "priceForHDP": 1800.0,
+                            "timeOnZillow": 1597066740000,
+                            "hiResImageLink": "https://photos.zillowstatic.com/p_f/IS7q36x10fpbbf0000000000.jpg",
+                            "watchImageLink": "https://photos.zillowstatic.com/p_j/IS7q36x10fpbbf0000000000.jpg",
+                            "tvImageLink": "https://photos.zillowstatic.com/p_m/IS7q36x10fpbbf0000000000.jpg",
+                            "tvCollectionImageLink": "https://photos.zillowstatic.com/p_l/IS7q36x10fpbbf0000000000.jpg",
+                            "tvHighResImageLink": "https://photos.zillowstatic.com/p_n/IS7q36x10fpbbf0000000000.jpg",
+                            "desktopWebHdpImageLink": "https://photos.zillowstatic.com/p_h/IS7q36x10fpbbf0000000000.jpg",
+                            "isNonOwnerOccupied": true,
+                            "isPremierBuilder": false,
+                            "isZillowOwned": false,
+                            "currency": "USD",
+                            "country": "USA",
+                            "taxAssessedValue": 168300.0,
+                            "unit": "Apt 204"
+                        }
+                    },
+                    "isSaved": false,
+                    "isUserClaimingOwner": false,
+                    "isUserConfirmedClaim": false,
+                    "pgapt": "ForRent",
+                    "sgapt": "For Rent",
+                    "zestimate": null,
+                    "shouldShowZestimateAsPrice": false,
+                    "has3DModel": false,
+                    "hasVideo": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "2100610842",
+                    "id": "2100610842",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISnys7v4ecfgp11000000000.jpg",
+                    "hasImage": true,
+                    "detailUrl": "https://www.zillow.com/homedetails/Indian-Creek-Dr-Miami-Beach-FL-33141/2100610842_zpid/",
+                    "statusType": "FOR_RENT",
+                    "statusText": "Apartment for rent",
+                    "countryCurrency": "$",
+                    "price": "$1,250/mo",
+                    "unformattedPrice": 1250,
+                    "address": "Indian Creek Dr, Miami Beach, FL 33141",
+                    "addressStreet": "Indian Creek Dr",
+                    "addressCity": "Miami Beach",
+                    "addressState": "FL",
+                    "addressZipcode": "33141",
+                    "beds": 0,
+                    "baths": 1.0,
+                    "area": 400,
+                    "latLong": {},
+                    "isZillowOwned": false,
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "41 minutes ago",
+                        "data": {
+                            "isFresh": true
+                        }
+                    },
+                    "hdpData": {
+                        "homeInfo": {
+                            "zpid": 2100610842,
+                            "streetAddress": "Indian Creek Dr",
+                            "zipcode": "33141",
+                            "city": "Miami Beach",
+                            "state": "FL",
+                            "price": 1250.0,
+                            "bathrooms": 1.0,
+                            "bedrooms": 0.0,
+                            "livingArea": 400.0,
+                            "homeType": "APARTMENT",
+                            "homeStatus": "FOR_RENT",
+                            "photoCount": 11,
+                            "imageLink": "https://photos.zillowstatic.com/p_g/ISnys7v4ecfgp11000000000.jpg",
+                            "daysOnZillow": 0,
+                            "isFeatured": false,
+                            "shouldHighlight": false,
+                            "brokerId": 12760,
+                            "isRentalWithBasePrice": false,
+                            "listing_sub_type": {},
+                            "isUnmappable": false,
+                            "mediumImageLink": "https://photos.zillowstatic.com/p_c/ISnys7v4ecfgp11000000000.jpg",
+                            "isPreforeclosureAuction": false,
+                            "homeStatusForHDP": "FOR_RENT",
+                            "priceForHDP": 1250.0,
+                            "timeOnZillow": 1597066200000,
+                            "hiResImageLink": "https://photos.zillowstatic.com/p_f/ISnys7v4ecfgp11000000000.jpg",
+                            "watchImageLink": "https://photos.zillowstatic.com/p_j/ISnys7v4ecfgp11000000000.jpg",
+                            "tvImageLink": "https://photos.zillowstatic.com/p_m/ISnys7v4ecfgp11000000000.jpg",
+                            "tvCollectionImageLink": "https://photos.zillowstatic.com/p_l/ISnys7v4ecfgp11000000000.jpg",
+                            "tvHighResImageLink": "https://photos.zillowstatic.com/p_n/ISnys7v4ecfgp11000000000.jpg",
+                            "desktopWebHdpImageLink": "https://photos.zillowstatic.com/p_h/ISnys7v4ecfgp11000000000.jpg",
+                            "isNonOwnerOccupied": true,
+                            "isPremierBuilder": false,
+                            "isZillowOwned": false,
+                            "currency": "USD",
+                            "country": "USA",
+                            "unit": "   "
+                        }
+                    },
+                    "isSaved": false,
+                    "isUserClaimingOwner": false,
+                    "isUserConfirmedClaim": false,
+                    "pgapt": "ForRent",
+                    "sgapt": "For Rent",
+                    "zestimate": null,
+                    "shouldShowZestimateAsPrice": false,
+                    "has3DModel": false,
+                    "hasVideo": false,
+                    "brokerName": "Keller Williams Eagle Realty",
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "2078311684",
+                    "id": "2078311684",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISf8nrvovwbt9l0000000000.jpg",
+                    "hasImage": true,
+                    "detailUrl": "https://www.zillow.com/homedetails/2285-SW-19th-St-APT-1-Miami-FL-33145/2078311684_zpid/",
+                    "statusType": "FOR_RENT",
+                    "statusText": "Apartment for rent",
+                    "countryCurrency": "$",
+                    "price": "$1,300/mo",
+                    "unformattedPrice": 1300,
+                    "address": "2285 SW 19th St APT 1, Miami, FL 33145",
+                    "addressStreet": "2285 SW 19th St APT 1",
+                    "addressCity": "Miami",
+                    "addressState": "FL",
+                    "addressZipcode": "33145",
+                    "beds": 1,
+                    "baths": 1.0,
+                    "area": 650,
+                    "latLong": {
+                        "latitude": 25.754557,
+                        "longitude": -80.23201
+                    },
+                    "isZillowOwned": false,
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "43 minutes ago",
+                        "data": {
+                            "isFresh": true
+                        }
+                    },
+                    "hdpData": {
+                        "homeInfo": {
+                            "zpid": 2078311684,
+                            "streetAddress": "2285 SW 19th St APT 1",
+                            "zipcode": "33145",
+                            "city": "Miami",
+                            "state": "FL",
+                            "latitude": -80.23201,
+                            "price": 1300.0,
+                            "bathrooms": 1.0,
+                            "bedrooms": 1.0,
+                            "livingArea": 650.0,
+                            "homeType": "APARTMENT",
+                            "homeStatus": "FOR_RENT",
+                            "photoCount": 8,
+                            "imageLink": "https://photos.zillowstatic.com/p_g/ISf8nrvovwbt9l0000000000.jpg",
+                            "daysOnZillow": 0,
+                            "isFeatured": false,
+                            "shouldHighlight": false,
+                            "brokerId": 12760,
+                            "isRentalWithBasePrice": false,
+                            "listing_sub_type": {},
+                            "isUnmappable": false,
+                            "mediumImageLink": "https://photos.zillowstatic.com/p_c/ISf8nrvovwbt9l0000000000.jpg",
+                            "isPreforeclosureAuction": false,
+                            "homeStatusForHDP": "FOR_RENT",
+                            "priceForHDP": 1300.0,
+                            "timeOnZillow": 1597066080000,
+                            "hiResImageLink": "https://photos.zillowstatic.com/p_f/ISf8nrvovwbt9l0000000000.jpg",
+                            "watchImageLink": "https://photos.zillowstatic.com/p_j/ISf8nrvovwbt9l0000000000.jpg",
+                            "tvImageLink": "https://photos.zillowstatic.com/p_m/ISf8nrvovwbt9l0000000000.jpg",
+                            "tvCollectionImageLink": "https://photos.zillowstatic.com/p_l/ISf8nrvovwbt9l0000000000.jpg",
+                            "tvHighResImageLink": "https://photos.zillowstatic.com/p_n/ISf8nrvovwbt9l0000000000.jpg",
+                            "desktopWebHdpImageLink": "https://photos.zillowstatic.com/p_h/ISf8nrvovwbt9l0000000000.jpg",
+                            "isNonOwnerOccupied": true,
+                            "isPremierBuilder": false,
+                            "isZillowOwned": false,
+                            "currency": "USD",
+                            "country": "USA",
+                            "unit": "Apt 1"
+                        }
+                    },
+                    "isSaved": false,
+                    "isUserClaimingOwner": false,
+                    "isUserConfirmedClaim": false,
+                    "pgapt": "ForRent",
+                    "sgapt": "For Rent",
+                    "zestimate": null,
+                    "shouldShowZestimateAsPrice": false,
+                    "has3DModel": false,
+                    "hasVideo": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "44231458",
+                    "id": "44231458",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISvs1pkd0ftqde0000000000.jpg",
+                    "hasImage": true,
+                    "detailUrl": "https://www.zillow.com/homedetails/14260-SW-25th-Ter-Miami-FL-33175/44231458_zpid/",
+                    "statusType": "FOR_RENT",
+                    "statusText": "House for rent",
+                    "countryCurrency": "$",
+                    "price": "$2,500/mo",
+                    "unformattedPrice": 2500,
+                    "address": "14260 SW 25th Ter, Miami, FL 33175",
+                    "addressStreet": "14260 SW 25th Ter",
+                    "addressCity": "Miami",
+                    "addressState": "FL",
+                    "addressZipcode": "33175",
+                    "beds": 3,
+                    "baths": 2.0,
+                    "area": 1567,
+                    "latLong": {
+                        "latitude": 25.7435,
+                        "longitude": -80.425335
+                    },
+                    "isZillowOwned": false,
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "2 hours ago",
+                        "data": {
+                            "isFresh": true
+                        }
+                    },
+                    "hdpData": {
+                        "homeInfo": {
+                            "zpid": 44231458,
+                            "streetAddress": "14260 SW 25th Ter",
+                            "zipcode": "33175",
+                            "city": "Miami",
+                            "state": "FL",
+                            "latitude": -80.425335,
+                            "price": 2500.0,
+                            "dateSold": 1001415600000,
+                            "bathrooms": 2.0,
+                            "bedrooms": 3.0,
+                            "livingArea": 1567.0,
+                            "lotSize": 6220.0,
+                            "homeType": "SINGLE_FAMILY",
+                            "homeStatus": "FOR_RENT",
+                            "photoCount": 31,
+                            "imageLink": "https://photos.zillowstatic.com/p_g/ISvs1pkd0ftqde0000000000.jpg",
+                            "daysOnZillow": 0,
+                            "isFeatured": false,
+                            "shouldHighlight": false,
+                            "brokerId": 12760,
+                            "isRentalWithBasePrice": false,
+                            "zestimate": 387192,
+                            "rentZestimate": 2500,
+                            "listing_sub_type": {},
+                            "isUnmappable": false,
+                            "mediumImageLink": "https://photos.zillowstatic.com/p_c/ISvs1pkd0ftqde0000000000.jpg",
+                            "isPreforeclosureAuction": false,
+                            "homeStatusForHDP": "FOR_RENT",
+                            "priceForHDP": 2500.0,
+                            "timeOnZillow": 1597059780000,
+                            "hiResImageLink": "https://photos.zillowstatic.com/p_f/ISvs1pkd0ftqde0000000000.jpg",
+                            "watchImageLink": "https://photos.zillowstatic.com/p_j/ISvs1pkd0ftqde0000000000.jpg",
+                            "tvImageLink": "https://photos.zillowstatic.com/p_m/ISvs1pkd0ftqde0000000000.jpg",
+                            "tvCollectionImageLink": "https://photos.zillowstatic.com/p_l/ISvs1pkd0ftqde0000000000.jpg",
+                            "tvHighResImageLink": "https://photos.zillowstatic.com/p_n/ISvs1pkd0ftqde0000000000.jpg",
+                            "desktopWebHdpImageLink": "https://photos.zillowstatic.com/p_h/ISvs1pkd0ftqde0000000000.jpg",
+                            "isNonOwnerOccupied": true,
+                            "isPremierBuilder": false,
+                            "isZillowOwned": false,
+                            "currency": "USD",
+                            "country": "USA",
+                            "taxAssessedValue": 281996.0,
+                            "unit": "   "
+                        }
+                    },
+                    "isSaved": false,
+                    "isUserClaimingOwner": false,
+                    "isUserConfirmedClaim": false,
+                    "pgapt": "ForRent",
+                    "sgapt": "For Rent",
+                    "zestimate": 387192,
+                    "shouldShowZestimateAsPrice": false,
+                    "has3DModel": false,
+                    "hasVideo": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.786168--80.220964",
+                    "id": "25.786168--80.220964",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISrhussmwvoyn01000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Lantower River Landing",
+                    "detailUrl": "/b/lantower-river-landing-miami-fl-9pprHc/",
+                    "latLong": {
+                        "latitude": 25.786168,
+                        "longitude": -80.220964
+                    },
+                    "units": [
+                        {
+                            "price": "$1,490+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$1,853+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,400+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$5,600+",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated today"
+                    },
+                    "buildingName": "Lantower River Landing",
+                    "isBuilding": true,
+                    "address": "1480 NW North River Dr, Miami, FL",
+                    "addressStreet": "1480 NW North River Dr # tp4yjejjp",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33125",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.688918--80.436741",
+                    "id": "25.688918--80.436741",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISfseu7wv8l4rq0000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Bridges At Kendall Place",
+                    "detailUrl": "/b/bridges-at-kendall-place-miami-fl-65YRYL/",
+                    "latLong": {
+                        "latitude": 25.688918,
+                        "longitude": -80.436741
+                    },
+                    "units": [
+                        {
+                            "price": "$1,539+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$1,881+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$2,250+",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated today"
+                    },
+                    "buildingName": "Bridges At Kendall Place",
+                    "isBuilding": true,
+                    "address": "8485 Hammocks Blvd, Miami, FL",
+                    "addressStreet": "8485 Hammocks Blvd # 2301",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33193",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.81907--80.334655",
+                    "id": "25.81907--80.334655",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISblavyx7li5aa1000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "5250 Park",
+                    "detailUrl": "/b/5250-park-doral-fl-BNtmKy/",
+                    "latLong": {
+                        "latitude": 25.81907,
+                        "longitude": -80.334655
+                    },
+                    "units": [
+                        {
+                            "price": "$2,247+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,673+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$5,050+",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated today"
+                    },
+                    "buildingName": "5250 Park",
+                    "isBuilding": true,
+                    "address": "5250 NW 84th Ave, Doral, FL",
+                    "addressStreet": "5250 NW 84th Ave # 9agmcm1m1",
+                    "addressState": "FL",
+                    "addressCity": "Doral",
+                    "addressZipcode": "33166",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "2078312362",
+                    "id": "2078312362",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISbp1zezpdy4491000000000.jpg",
+                    "hasImage": true,
+                    "detailUrl": "https://www.zillow.com/homedetails/0-El-Portal-Miami-FL-33150/2078312362_zpid/",
+                    "statusType": "FOR_RENT",
+                    "statusText": "House for rent",
+                    "countryCurrency": "$",
+                    "price": "$2,895/mo",
+                    "unformattedPrice": 2895,
+                    "address": "0 El Portal, Miami, FL 33150",
+                    "addressStreet": "0 El Portal",
+                    "addressCity": "Miami",
+                    "addressState": "FL",
+                    "addressZipcode": "33150",
+                    "beds": 3,
+                    "baths": 2.0,
+                    "area": 2434,
+                    "latLong": {
+                        "latitude": 25.852629,
+                        "longitude": -80.207327
+                    },
+                    "isZillowOwned": false,
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "3 hours ago",
+                        "data": {
+                            "isFresh": true
+                        }
+                    },
+                    "hdpData": {
+                        "homeInfo": {
+                            "zpid": 2078312362,
+                            "streetAddress": "0 El Portal",
+                            "zipcode": "33150",
+                            "city": "Miami",
+                            "state": "FL",
+                            "latitude": -80.207327,
+                            "price": 2895.0,
+                            "bathrooms": 2.0,
+                            "bedrooms": 3.0,
+                            "livingArea": 2434.0,
+                            "homeType": "SINGLE_FAMILY",
+                            "homeStatus": "FOR_RENT",
+                            "photoCount": 15,
+                            "imageLink": "https://photos.zillowstatic.com/p_g/ISbp1zezpdy4491000000000.jpg",
+                            "daysOnZillow": 0,
+                            "isFeatured": false,
+                            "shouldHighlight": false,
+                            "brokerId": 807,
+                            "isRentalWithBasePrice": false,
+                            "listing_sub_type": {},
+                            "isUnmappable": false,
+                            "mediumImageLink": "https://photos.zillowstatic.com/p_c/ISbp1zezpdy4491000000000.jpg",
+                            "isPreforeclosureAuction": false,
+                            "homeStatusForHDP": "FOR_RENT",
+                            "priceForHDP": 2895.0,
+                            "timeOnZillow": 1597054800000,
+                            "hiResImageLink": "https://photos.zillowstatic.com/p_f/ISbp1zezpdy4491000000000.jpg",
+                            "watchImageLink": "https://photos.zillowstatic.com/p_j/ISbp1zezpdy4491000000000.jpg",
+                            "tvImageLink": "https://photos.zillowstatic.com/p_m/ISbp1zezpdy4491000000000.jpg",
+                            "tvCollectionImageLink": "https://photos.zillowstatic.com/p_l/ISbp1zezpdy4491000000000.jpg",
+                            "tvHighResImageLink": "https://photos.zillowstatic.com/p_n/ISbp1zezpdy4491000000000.jpg",
+                            "desktopWebHdpImageLink": "https://photos.zillowstatic.com/p_h/ISbp1zezpdy4491000000000.jpg",
+                            "isNonOwnerOccupied": true,
+                            "isPremierBuilder": false,
+                            "isZillowOwned": false,
+                            "currency": "USD",
+                            "country": "USA",
+                            "unit": "   "
+                        }
+                    },
+                    "isSaved": false,
+                    "isUserClaimingOwner": false,
+                    "isUserConfirmedClaim": false,
+                    "pgapt": "ForRent",
+                    "sgapt": "For Rent",
+                    "zestimate": null,
+                    "shouldShowZestimateAsPrice": false,
+                    "has3DModel": false,
+                    "hasVideo": false,
+                    "brokerName": "Aventura Office",
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.746293--80.257011",
+                    "id": "25.746293--80.257011",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISfg9u6flvz0p20000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "The Reserve at the Plaza",
+                    "detailUrl": "/b/the-reserve-at-the-plaza-coral-gables-fl-BPFfnW/",
+                    "latLong": {
+                        "latitude": 25.746293,
+                        "longitude": -80.257011
+                    },
+                    "units": [
+                        {
+                            "price": "$2,159+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$2,542+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$3,649+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$4,299+",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated today"
+                    },
+                    "buildingName": "The Reserve at the Plaza",
+                    "isBuilding": true,
+                    "address": "122 Sevilla Ave, Miami, FL",
+                    "addressStreet": "122 Sevilla Ave # 1225",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33134",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.801883--80.201704",
+                    "id": "25.801883--80.201704",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISvkz5ur5j16qc1000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Landing Furnished Apartments in Miami: Monthly Leases, $0 Deposit",
+                    "detailUrl": "/b/landing-furnished-apartments-in-miami%3a-monthly-leases,-%240-deposit-miami-fl-9QChPM/",
+                    "latLong": {
+                        "latitude": 25.801883,
+                        "longitude": -80.201704
+                    },
+                    "units": [
+                        {
+                            "price": "$2,341+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,274",
+                            "beds": "2"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated today"
+                    },
+                    "buildingName": "Landing Furnished Apartments in Miami: Monthly Leases, $0 Deposit",
+                    "isBuilding": true,
+                    "address": "360 NW 27th St, Miami, FL",
+                    "addressStreet": "360 NW 27th St # 316",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33127",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.863763--80.25587",
+                    "id": "25.863763--80.25587",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/IS7idw1kwe1ucj0000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Avalon Bonterra",
+                    "detailUrl": "/b/avalon-bonterra-hialeah-fl-9n8nbV/",
+                    "latLong": {
+                        "latitude": 25.863763,
+                        "longitude": -80.25587
+                    },
+                    "units": [
+                        {
+                            "price": "$1,595+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$1,990+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$2,455+",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated today"
+                    },
+                    "buildingName": "Avalon Bonterra",
+                    "isBuilding": true,
+                    "address": "3545 W 98th St, Hialeah, FL",
+                    "addressStreet": "3545 W 98th St # rnneh00h7",
+                    "addressState": "FL",
+                    "addressCity": "Hialeah",
+                    "addressZipcode": "33018",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.801161--80.189415",
+                    "id": "25.801161--80.189415",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISnulvtkf6megx0000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Wynwood Bay",
+                    "detailUrl": "/b/wynwood-bay-miami-fl-9CycwQ/",
+                    "latLong": {
+                        "latitude": 25.801161,
+                        "longitude": -80.189415
+                    },
+                    "units": [
+                        {
+                            "price": "$2,050+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,325+",
+                            "beds": "2"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated today"
+                    },
+                    "buildingName": "Wynwood Bay",
+                    "isBuilding": true,
+                    "address": "2500 Biscayne Blvd, Miami, FL",
+                    "addressStreet": "2500 Biscayne Blvd # 911",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33137",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.764318--80.194229",
+                    "id": "25.764318--80.194229",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISz7syiymzqkiq1000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Camden Brickell",
+                    "detailUrl": "/b/camden-brickell-miami-fl-5XhxF4/",
+                    "latLong": {
+                        "latitude": 25.764318,
+                        "longitude": -80.194229
+                    },
+                    "units": [
+                        {
+                            "price": "$1,909+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$1,679+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,259+",
+                            "beds": "2"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated today"
+                    },
+                    "buildingName": "Camden Brickell",
+                    "isBuilding": true,
+                    "address": "50 SW 10th St, Miami, FL",
+                    "addressStreet": "50 SW 10th St Apt 728",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33130",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "44314839",
+                    "id": "44314839",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISrl5gdg5vc1fi0000000000.jpg",
+                    "hasImage": true,
+                    "detailUrl": "https://www.zillow.com/homedetails/10030-Hammocks-Blvd-APT-202-3-Miami-FL-33196/44314839_zpid/",
+                    "statusType": "FOR_RENT",
+                    "statusText": "Apartment for rent",
+                    "countryCurrency": "$",
+                    "price": "$1,950/mo",
+                    "unformattedPrice": 1950,
+                    "address": "10030 Hammocks Blvd APT 202-3, Miami, FL 33196",
+                    "addressStreet": "10030 Hammocks Blvd APT 202-3",
+                    "addressCity": "Miami",
+                    "addressState": "FL",
+                    "addressZipcode": "33196",
+                    "beds": 2,
+                    "baths": 2.5,
+                    "area": 1350,
+                    "latLong": {
+                        "latitude": 25.672977,
+                        "longitude": -80.445211
+                    },
+                    "isZillowOwned": false,
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "8 hours ago",
+                        "data": {
+                            "isFresh": true
+                        }
+                    },
+                    "hdpData": {
+                        "homeInfo": {
+                            "zpid": 44314839,
+                            "streetAddress": "10030 Hammocks Blvd APT 202-3",
+                            "zipcode": "33196",
+                            "city": "Miami",
+                            "state": "FL",
+                            "latitude": -80.445211,
+                            "price": 1950.0,
+                            "dateSold": 1574064000000,
+                            "bathrooms": 2.5,
+                            "bedrooms": 2.0,
+                            "livingArea": 1350.0,
+                            "lotSize": 1350.0,
+                            "homeType": "APARTMENT",
+                            "homeStatus": "FOR_RENT",
+                            "photoCount": 77,
+                            "imageLink": "https://photos.zillowstatic.com/p_g/ISrl5gdg5vc1fi0000000000.jpg",
+                            "daysOnZillow": 0,
+                            "isFeatured": false,
+                            "shouldHighlight": false,
+                            "brokerId": 12760,
+                            "isRentalWithBasePrice": false,
+                            "zestimate": 237274,
+                            "rentZestimate": 1850,
+                            "listing_sub_type": {},
+                            "isUnmappable": false,
+                            "mediumImageLink": "https://photos.zillowstatic.com/p_c/ISrl5gdg5vc1fi0000000000.jpg",
+                            "isPreforeclosureAuction": false,
+                            "homeStatusForHDP": "FOR_RENT",
+                            "priceForHDP": 1950.0,
+                            "timeOnZillow": 1597039440000,
+                            "hiResImageLink": "https://photos.zillowstatic.com/p_f/ISrl5gdg5vc1fi0000000000.jpg",
+                            "watchImageLink": "https://photos.zillowstatic.com/p_j/ISrl5gdg5vc1fi0000000000.jpg",
+                            "tvImageLink": "https://photos.zillowstatic.com/p_m/ISrl5gdg5vc1fi0000000000.jpg",
+                            "tvCollectionImageLink": "https://photos.zillowstatic.com/p_l/ISrl5gdg5vc1fi0000000000.jpg",
+                            "tvHighResImageLink": "https://photos.zillowstatic.com/p_n/ISrl5gdg5vc1fi0000000000.jpg",
+                            "desktopWebHdpImageLink": "https://photos.zillowstatic.com/p_h/ISrl5gdg5vc1fi0000000000.jpg",
+                            "isNonOwnerOccupied": true,
+                            "isPremierBuilder": false,
+                            "isZillowOwned": false,
+                            "currency": "USD",
+                            "country": "USA",
+                            "taxAssessedValue": 156300.0,
+                            "unit": "Apt 202-3"
+                        }
+                    },
+                    "isSaved": false,
+                    "isUserClaimingOwner": false,
+                    "isUserConfirmedClaim": false,
+                    "pgapt": "ForRent",
+                    "sgapt": "For Rent",
+                    "zestimate": 237274,
+                    "shouldShowZestimateAsPrice": false,
+                    "has3DModel": false,
+                    "hasVideo": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.751756--80.303437",
+                    "id": "25.751756--80.303437",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISzb3i4eqah27h1000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "District West Gables",
+                    "detailUrl": "/b/district-west-gables-west-miami-fl-9CzKzd/",
+                    "latLong": {
+                        "latitude": 25.751756,
+                        "longitude": -80.303437
+                    },
+                    "units": [
+                        {
+                            "price": "$1,390+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$1,595+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$1,880+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$2,445+",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "District West Gables",
+                    "isBuilding": true,
+                    "address": "2001 Ludlam Rd, Miami, FL",
+                    "addressStreet": "2001 Ludlam Rd # 2-338",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33155",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.782308--80.19491",
+                    "id": "25.782308--80.19491",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISvw0jy0l3grj60000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "For Rent",
+                    "detailUrl": "/b/bayview-towers-miami-fl-5XjZfF/",
+                    "latLong": {
+                        "latitude": 25.782308,
+                        "longitude": -80.19491
+                    },
+                    "units": [
+                        {
+                            "price": "$1,450+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$1,875+",
+                            "beds": "2"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "",
+                    "isBuilding": true,
+                    "address": "800 N Miami Ave, Miami, FL",
+                    "addressStreet": "800 N Miami Ave Apt 302",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33136",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.787354--80.144608",
+                    "id": "25.787354--80.144608",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISnu9uoarl3jz30000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Flamingo Point Center Tower",
+                    "detailUrl": "/b/flamingo-point-center-tower-miami-beach-fl-5XkJMR/",
+                    "latLong": {
+                        "latitude": 25.787354,
+                        "longitude": -80.144608
+                    },
+                    "units": [
+                        {
+                            "price": "$1,849",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$2,108+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,379+",
+                            "beds": "2"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "Flamingo Point Center Tower",
+                    "isBuilding": true,
+                    "address": "1508 Bay Rd, Miami Beach, FL",
+                    "addressStreet": "1508 Bay Rd # M0726",
+                    "addressState": "FL",
+                    "addressCity": "Miami Beach",
+                    "addressZipcode": "33139",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.816596--80.370519",
+                    "id": "25.816596--80.370519",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISv4zq5ddundjh1000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Camden Doral",
+                    "detailUrl": "/b/camden-doral-doral-fl-5gpzZ3/",
+                    "latLong": {
+                        "latitude": 25.816596,
+                        "longitude": -80.370519
+                    },
+                    "units": [
+                        {
+                            "price": "$1,479+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$1,809+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$2,299+",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "Camden Doral",
+                    "isBuilding": true,
+                    "address": "4790 NW 107th Ave, Miami, FL",
+                    "addressStreet": "4790 NW 107th Ave # 1306",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33178",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "43932539",
+                    "id": "43932539",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISjj2q6i6lytp30000000000.jpg",
+                    "hasImage": true,
+                    "detailUrl": "https://www.zillow.com/homedetails/6973-W-29th-Ave-UNIT-104-Hialeah-FL-33018/43932539_zpid/",
+                    "statusType": "FOR_RENT",
+                    "statusText": "Townhouse for rent",
+                    "countryCurrency": "$",
+                    "price": "$1,690/mo",
+                    "unformattedPrice": 1690,
+                    "address": "6973 W 29th Ave UNIT 104, Hialeah, FL 33018",
+                    "addressStreet": "6973 W 29th Ave UNIT 104",
+                    "addressCity": "Hialeah",
+                    "addressState": "FL",
+                    "addressZipcode": "33018",
+                    "beds": 2,
+                    "baths": 2.0,
+                    "area": 940,
+                    "latLong": {
+                        "latitude": 25.885862,
+                        "longitude": -80.340833
+                    },
+                    "isZillowOwned": false,
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "10 hours ago",
+                        "data": {
+                            "isFresh": true
+                        }
+                    },
+                    "hdpData": {
+                        "homeInfo": {
+                            "zpid": 43932539,
+                            "streetAddress": "6973 W 29th Ave UNIT 104",
+                            "zipcode": "33018",
+                            "city": "Hialeah",
+                            "state": "FL",
+                            "latitude": -80.340833,
+                            "price": 1690.0,
+                            "dateSold": 1485331200000,
+                            "bathrooms": 2.0,
+                            "bedrooms": 2.0,
+                            "livingArea": 940.0,
+                            "homeType": "TOWNHOUSE",
+                            "homeStatus": "FOR_RENT",
+                            "photoCount": 9,
+                            "imageLink": "https://photos.zillowstatic.com/p_g/ISjj2q6i6lytp30000000000.jpg",
+                            "daysOnZillow": 0,
+                            "isFeatured": false,
+                            "shouldHighlight": false,
+                            "brokerId": 14186,
+                            "isRentalWithBasePrice": false,
+                            "zestimate": 198346,
+                            "rentZestimate": 1650,
+                            "listing_sub_type": {},
+                            "isUnmappable": false,
+                            "mediumImageLink": "https://photos.zillowstatic.com/p_c/ISjj2q6i6lytp30000000000.jpg",
+                            "isPreforeclosureAuction": false,
+                            "homeStatusForHDP": "FOR_RENT",
+                            "priceForHDP": 1690.0,
+                            "timeOnZillow": 1597029540000,
+                            "hiResImageLink": "https://photos.zillowstatic.com/p_f/ISjj2q6i6lytp30000000000.jpg",
+                            "watchImageLink": "https://photos.zillowstatic.com/p_j/ISjj2q6i6lytp30000000000.jpg",
+                            "tvImageLink": "https://photos.zillowstatic.com/p_m/ISjj2q6i6lytp30000000000.jpg",
+                            "tvCollectionImageLink": "https://photos.zillowstatic.com/p_l/ISjj2q6i6lytp30000000000.jpg",
+                            "tvHighResImageLink": "https://photos.zillowstatic.com/p_n/ISjj2q6i6lytp30000000000.jpg",
+                            "desktopWebHdpImageLink": "https://photos.zillowstatic.com/p_h/ISjj2q6i6lytp30000000000.jpg",
+                            "isNonOwnerOccupied": true,
+                            "isPremierBuilder": false,
+                            "isZillowOwned": false,
+                            "currency": "USD",
+                            "country": "USA",
+                            "taxAssessedValue": 134438.0,
+                            "unit": "Unit 104"
+                        }
+                    },
+                    "isSaved": false,
+                    "isUserClaimingOwner": false,
+                    "isUserConfirmedClaim": false,
+                    "pgapt": "ForRent",
+                    "sgapt": "For Rent",
+                    "zestimate": 198346,
+                    "shouldShowZestimateAsPrice": false,
+                    "has3DModel": false,
+                    "hasVideo": false,
+                    "brokerName": "Coral Shores Realty",
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.772806--80.135183",
+                    "id": "25.772806--80.135183",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISforxft35a7hg1000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "For Rent",
+                    "detailUrl": "/b/brooklyn-hotel-miami-beach-fl-5Xm2PV/",
+                    "latLong": {
+                        "latitude": 25.772806,
+                        "longitude": -80.135183
+                    },
+                    "units": [
+                        {
+                            "price": "$1,350+",
+                            "beds": "1"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "",
+                    "isBuilding": true,
+                    "address": "320 Euclid Ave, Miami Beach, FL",
+                    "addressStreet": "320 Euclid Ave ",
+                    "addressState": "FL",
+                    "addressCity": "Miami Beach",
+                    "addressZipcode": "33139",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.753981--80.261069",
+                    "id": "25.753981--80.261069",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISny8wcrnngjtw0000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Sofia Coral Gables",
+                    "detailUrl": "/b/sofia-coral-gables-coral-gables-fl-B8GDNv/",
+                    "latLong": {
+                        "latitude": 25.753981,
+                        "longitude": -80.261069
+                    },
+                    "units": [
+                        {
+                            "price": "$1,596",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$1,842+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,944+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$3,930+",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "Sofia Coral Gables",
+                    "isBuilding": true,
+                    "address": "2000 Salzedo St, Coral Gables, FL",
+                    "addressStreet": "2000 Salzedo St Ph 12",
+                    "addressState": "FL",
+                    "addressCity": "Coral Gables",
+                    "addressZipcode": "33134",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.6866--80.374758",
+                    "id": "25.6866--80.374758",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISfc2681c3898a0000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Harbour Key",
+                    "detailUrl": "/b/harbour-key-miami-fl-5XjWqw/",
+                    "latLong": {
+                        "latitude": 25.6866,
+                        "longitude": -80.374758
+                    },
+                    "units": [
+                        {
+                            "price": "$1,345+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$1,455+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$1,625+",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "Harbour Key",
+                    "isBuilding": true,
+                    "address": "11033 N Kendall Dr, Miami, FL",
+                    "addressStreet": "11033 N Kendall Dr # 1042757",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33176",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.779384--80.142251",
+                    "id": "25.779384--80.142251",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/IS7uq2heivozo91000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Southgate Towers Luxury Rentals",
+                    "detailUrl": "/b/southgate-towers-luxury-rentals-miami-beach-fl-65WXvp/",
+                    "latLong": {
+                        "latitude": 25.779384,
+                        "longitude": -80.142251
+                    },
+                    "units": [
+                        {
+                            "price": "$1,400+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$1,513+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,449+",
+                            "beds": "2"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "Southgate Towers Luxury Rentals",
+                    "isBuilding": true,
+                    "address": "900 West Ave, Miami Beach, FL",
+                    "addressStreet": "900 West Ave # 1019083",
+                    "addressState": "FL",
+                    "addressCity": "Miami Beach",
+                    "addressZipcode": "33139",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.753169--80.255812",
+                    "id": "25.753169--80.255812",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISb52a0tw9yac90000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Gables Columbus Center",
+                    "detailUrl": "/b/gables-columbus-center-coral-gables-fl-BKwTnh/",
+                    "latLong": {
+                        "latitude": 25.753169,
+                        "longitude": -80.255812
+                    },
+                    "units": [
+                        {
+                            "price": "$1,980+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$2,235+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,445+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$3,905+",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "3D_HOME",
+                        "text": "3D Home"
+                    },
+                    "buildingName": "Gables Columbus Center",
+                    "isBuilding": true,
+                    "address": "60 Minorca Ave, Miami, FL",
+                    "addressStreet": "60 Minorca Ave # 1807",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33134",
+                    "has3DModel": true,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.776695--80.188955",
+                    "id": "25.776695--80.188955",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/IS768wki7uox9f1000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "For Rent",
+                    "detailUrl": "/b/244-biscayne-blvd-miami-fl-5Xj48F/",
+                    "latLong": {
+                        "latitude": 25.776695,
+                        "longitude": -80.188955
+                    },
+                    "units": [
+                        {
+                            "price": "$1,450+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$2,250",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,300+",
+                            "beds": "2"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "",
+                    "isBuilding": true,
+                    "address": "244 Biscayne Blvd, Miami, FL",
+                    "addressStreet": "244 Biscayne Blvd Apt 2805",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33132",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.77897--80.330111",
+                    "id": "25.77897--80.330111",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISf4oprrrzpone1000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "For Rent",
+                    "detailUrl": "/b/8251-NW-8th-St-Miami-FL/25.77897,-80.330111_ll/",
+                    "latLong": {
+                        "latitude": 25.77897,
+                        "longitude": -80.330111
+                    },
+                    "units": [
+                        {
+                            "price": "$1,400",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$1,590+",
+                            "beds": "2"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "",
+                    "isBuilding": true,
+                    "address": "8251 NW 8th St, Miami, FL",
+                    "addressStreet": "8251 NW 8th St # M-117",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33126",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.88786--80.160247",
+                    "id": "25.88786--80.160247",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/IS3jro421mauoe1000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "For Rent",
+                    "detailUrl": "/b/sutton-house-condominiums-miami-fl-5Xmn6x/",
+                    "latLong": {
+                        "latitude": 25.88786,
+                        "longitude": -80.160247
+                    },
+                    "units": [
+                        {
+                            "price": "$1,250+",
+                            "beds": "1"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "",
+                    "isBuilding": true,
+                    "address": "1885 NE 121st St, North Miami, FL",
+                    "addressStreet": "1885 NE 121st St Apt 18",
+                    "addressState": "FL",
+                    "addressCity": "North Miami",
+                    "addressZipcode": "33181",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "2110470884",
+                    "id": "2110470884",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/IS3z7ojfzk8jpe1000000000.jpg",
+                    "hasImage": true,
+                    "detailUrl": "https://www.zillow.com/homedetails/8125-Crespi-Blvd-APT-2-Miami-FL-33141/2110470884_zpid/",
+                    "statusType": "FOR_RENT",
+                    "statusText": "Condo for rent",
+                    "countryCurrency": "$",
+                    "price": "$2,899/mo",
+                    "unformattedPrice": 2899,
+                    "address": "8125 Crespi Blvd APT 2, Miami, FL 33141",
+                    "addressStreet": "8125 Crespi Blvd APT 2",
+                    "addressCity": "Miami",
+                    "addressState": "FL",
+                    "addressZipcode": "33141",
+                    "beds": 3,
+                    "baths": 2.0,
+                    "area": 1768,
+                    "latLong": {
+                        "latitude": 25.86705,
+                        "longitude": -80.12505
+                    },
+                    "isZillowOwned": false,
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "13 hours ago",
+                        "data": {
+                            "isFresh": true
+                        }
+                    },
+                    "hdpData": {
+                        "homeInfo": {
+                            "zpid": 2110470884,
+                            "streetAddress": "8125 Crespi Blvd APT 2",
+                            "zipcode": "33141",
+                            "city": "Miami",
+                            "state": "FL",
+                            "latitude": -80.12505,
+                            "price": 2899.0,
+                            "dateSold": 1322636400000,
+                            "bathrooms": 2.0,
+                            "bedrooms": 3.0,
+                            "livingArea": 1768.0,
+                            "homeType": "CONDO",
+                            "homeStatus": "FOR_RENT",
+                            "photoCount": 34,
+                            "imageLink": "https://photos.zillowstatic.com/p_g/IS3z7ojfzk8jpe1000000000.jpg",
+                            "daysOnZillow": 0,
+                            "isFeatured": false,
+                            "shouldHighlight": false,
+                            "brokerId": 14010,
+                            "isRentalWithBasePrice": false,
+                            "zestimate": 383280,
+                            "rentZestimate": 2900,
+                            "listing_sub_type": {},
+                            "isUnmappable": false,
+                            "mediumImageLink": "https://photos.zillowstatic.com/p_c/IS3z7ojfzk8jpe1000000000.jpg",
+                            "isPreforeclosureAuction": false,
+                            "homeStatusForHDP": "FOR_RENT",
+                            "priceForHDP": 2899.0,
+                            "timeOnZillow": 1597021560000,
+                            "hiResImageLink": "https://photos.zillowstatic.com/p_f/IS3z7ojfzk8jpe1000000000.jpg",
+                            "watchImageLink": "https://photos.zillowstatic.com/p_j/IS3z7ojfzk8jpe1000000000.jpg",
+                            "tvImageLink": "https://photos.zillowstatic.com/p_m/IS3z7ojfzk8jpe1000000000.jpg",
+                            "tvCollectionImageLink": "https://photos.zillowstatic.com/p_l/IS3z7ojfzk8jpe1000000000.jpg",
+                            "tvHighResImageLink": "https://photos.zillowstatic.com/p_n/IS3z7ojfzk8jpe1000000000.jpg",
+                            "desktopWebHdpImageLink": "https://photos.zillowstatic.com/p_h/IS3z7ojfzk8jpe1000000000.jpg",
+                            "isNonOwnerOccupied": true,
+                            "isPremierBuilder": false,
+                            "isZillowOwned": false,
+                            "currency": "USD",
+                            "country": "USA",
+                            "unit": "Apt 2"
+                        }
+                    },
+                    "isSaved": false,
+                    "isUserClaimingOwner": false,
+                    "isUserConfirmedClaim": false,
+                    "pgapt": "ForRent",
+                    "sgapt": "For Rent",
+                    "zestimate": 383280,
+                    "shouldShowZestimateAsPrice": false,
+                    "has3DModel": false,
+                    "hasVideo": false,
+                    "brokerName": "InterConnect Realty LLC",
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.809841--80.32531",
+                    "id": "25.809841--80.32531",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/IS3nm3s3yjh62y1000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Avalon Doral",
+                    "detailUrl": "/b/avalon-doral-doral-fl-Bk7wQ7/",
+                    "latLong": {
+                        "latitude": 25.809841,
+                        "longitude": -80.32531
+                    },
+                    "units": [
+                        {
+                            "price": "$1,603+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$1,755+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,380+",
+                            "beds": "2"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "Avalon Doral",
+                    "isBuilding": true,
+                    "address": "3940 NW 79th Ave, Miami, FL",
+                    "addressStreet": "3940 NW 79th Ave # hkfubyvt4",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33166",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.765258--80.226946",
+                    "id": "25.765258--80.226946",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISmehd0pus96hp0000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Intown",
+                    "detailUrl": "/b/intown-miami-fl-5ZJ7Z4/",
+                    "latLong": {
+                        "latitude": 25.765258,
+                        "longitude": -80.226946
+                    },
+                    "units": [
+                        {
+                            "price": "$1,557+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$1,905+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$2,286+",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "Intown",
+                    "isBuilding": true,
+                    "address": "1900 SW 8th St, Miami, FL",
+                    "addressStreet": "1900 SW 8th St Apt E201",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33135",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.815703--80.381829",
+                    "id": "25.815703--80.381829",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISz3h38j503ctk0000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Camden Doral Villas",
+                    "detailUrl": "/b/camden-doral-villas-doral-fl-5g3krx/",
+                    "latLong": {
+                        "latitude": 25.815703,
+                        "longitude": -80.381829
+                    },
+                    "units": [
+                        {
+                            "price": "$1,879+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$1,809+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$2,769+",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "Camden Doral Villas",
+                    "isBuilding": true,
+                    "address": "4600 NW 114th Ave, Miami, FL",
+                    "addressStreet": "4600 NW 114th Ave # 3732338",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33178",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.762801--80.189042",
+                    "id": "25.762801--80.189042",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/IS6mcav0y6o2zw0000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Yacht Club Apartments",
+                    "detailUrl": "/b/yacht-club-apartments-miami-fl-5XhxWm/",
+                    "latLong": {
+                        "latitude": 25.762801,
+                        "longitude": -80.189042
+                    },
+                    "units": [
+                        {
+                            "price": "$1,874+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,139+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$3,259+",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "Yacht Club Apartments",
+                    "isBuilding": true,
+                    "address": "1111 Brickell Bay Dr, Miami, FL",
+                    "addressStreet": "1111 Brickell Bay Dr Apt 1703",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33131",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "2078313754",
+                    "id": "2078313754",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/IS7ajjpnujio8m1000000000.jpg",
+                    "hasImage": true,
+                    "detailUrl": "https://www.zillow.com/homedetails/SW-29th-St-Miami-FL-33133/2078313754_zpid/",
+                    "statusType": "FOR_RENT",
+                    "statusText": "House for rent",
+                    "countryCurrency": "$",
+                    "price": "$2,750/mo",
+                    "unformattedPrice": 2750,
+                    "address": "SW 29th St, Miami, FL 33133",
+                    "addressStreet": "SW 29th St",
+                    "addressCity": "Miami",
+                    "addressState": "FL",
+                    "addressZipcode": "33133",
+                    "beds": 3,
+                    "baths": 2.0,
+                    "area": 1500,
+                    "latLong": {},
+                    "isZillowOwned": false,
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "14 hours ago",
+                        "data": {
+                            "isFresh": true
+                        }
+                    },
+                    "hdpData": {
+                        "homeInfo": {
+                            "zpid": 2078313754,
+                            "streetAddress": "SW 29th St",
+                            "zipcode": "33133",
+                            "city": "Miami",
+                            "state": "FL",
+                            "price": 2750.0,
+                            "bathrooms": 2.0,
+                            "bedrooms": 3.0,
+                            "livingArea": 1500.0,
+                            "homeType": "SINGLE_FAMILY",
+                            "homeStatus": "FOR_RENT",
+                            "photoCount": 23,
+                            "imageLink": "https://photos.zillowstatic.com/p_g/IS7ajjpnujio8m1000000000.jpg",
+                            "daysOnZillow": 0,
+                            "isFeatured": false,
+                            "shouldHighlight": false,
+                            "brokerId": 12760,
+                            "isRentalWithBasePrice": false,
+                            "listing_sub_type": {},
+                            "isUnmappable": false,
+                            "mediumImageLink": "https://photos.zillowstatic.com/p_c/IS7ajjpnujio8m1000000000.jpg",
+                            "isPreforeclosureAuction": false,
+                            "homeStatusForHDP": "FOR_RENT",
+                            "priceForHDP": 2750.0,
+                            "timeOnZillow": 1597017180000,
+                            "hiResImageLink": "https://photos.zillowstatic.com/p_f/IS7ajjpnujio8m1000000000.jpg",
+                            "watchImageLink": "https://photos.zillowstatic.com/p_j/IS7ajjpnujio8m1000000000.jpg",
+                            "tvImageLink": "https://photos.zillowstatic.com/p_m/IS7ajjpnujio8m1000000000.jpg",
+                            "tvCollectionImageLink": "https://photos.zillowstatic.com/p_l/IS7ajjpnujio8m1000000000.jpg",
+                            "tvHighResImageLink": "https://photos.zillowstatic.com/p_n/IS7ajjpnujio8m1000000000.jpg",
+                            "desktopWebHdpImageLink": "https://photos.zillowstatic.com/p_h/IS7ajjpnujio8m1000000000.jpg",
+                            "isNonOwnerOccupied": true,
+                            "isPremierBuilder": false,
+                            "isZillowOwned": false,
+                            "currency": "USD",
+                            "country": "USA",
+                            "unit": "   "
+                        }
+                    },
+                    "isSaved": false,
+                    "isUserClaimingOwner": false,
+                    "isUserConfirmedClaim": false,
+                    "pgapt": "ForRent",
+                    "sgapt": "For Rent",
+                    "zestimate": null,
+                    "shouldShowZestimateAsPrice": false,
+                    "has3DModel": false,
+                    "hasVideo": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.751035--80.22575",
+                    "id": "25.751035--80.22575",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISbhf8d8bo4s670000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "For Rent",
+                    "detailUrl": "/b/1895-sw-22nd-street-miami-fl-5j5YrS/",
+                    "latLong": {
+                        "latitude": 25.751035,
+                        "longitude": -80.22575
+                    },
+                    "units": [
+                        {
+                            "price": "$1,375",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$1,850",
+                            "beds": "2"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "",
+                    "isBuilding": true,
+                    "address": "1895 SW 22nd St, Miami, FL",
+                    "addressStreet": "1895 SW 22nd St # 1",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33145",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.712892--80.279002",
+                    "id": "25.712892--80.279002",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISz7k8xdxv76jf1000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "The Residences at Thesis",
+                    "detailUrl": "/b/the-residences-at-thesis-coral-gables-fl-9rqM6k/",
+                    "latLong": {
+                        "latitude": 25.712892,
+                        "longitude": -80.279002
+                    },
+                    "units": [
+                        {
+                            "price": "$1,870+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$2,270+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$3,285+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$4,735+",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "The Residences at Thesis",
+                    "isBuilding": true,
+                    "address": "1340 S Dixie Hwy, Miami, FL",
+                    "addressStreet": "1340 S Dixie Hwy # 902",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33146",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.829316--80.368422",
+                    "id": "25.829316--80.368422",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISz35esk046zjl0000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "The Landmark South",
+                    "detailUrl": "/b/the-landmark-south-doral-fl-BBygRD/",
+                    "latLong": {
+                        "latitude": 25.829316,
+                        "longitude": -80.368422
+                    },
+                    "units": [
+                        {
+                            "price": "$1,609+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,197+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$2,600+",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": null
+                    },
+                    "buildingName": "The Landmark South",
+                    "isBuilding": true,
+                    "address": "6055 NW 105th Ct, Miami, FL",
+                    "addressStreet": "6055 NW 105th Ct # S-709",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33178",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.848774--80.173493",
+                    "id": "25.848774--80.173493",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/ISz356at4ockpa1000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "ShoreCrest Club",
+                    "detailUrl": "/b/shorecrest-club-miami-fl-65W4bz/",
+                    "latLong": {
+                        "latitude": 25.848774,
+                        "longitude": -80.173493
+                    },
+                    "units": [
+                        {
+                            "price": "$1,422+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,344+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$4,226",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "ShoreCrest Club",
+                    "isBuilding": true,
+                    "address": "7950 NE Bayshore Ct, Miami, FL",
+                    "addressStreet": "7950 NE Bayshore Ct # EPH02",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33138",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.693835--80.30819",
+                    "id": "25.693835--80.30819",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/IS7qfzr286zlw90000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Modera Metro Dadeland",
+                    "detailUrl": "/b/modera-metro-dadeland-miami-fl-BGz6vR/",
+                    "latLong": {
+                        "latitude": 25.693835,
+                        "longitude": -80.30819
+                    },
+                    "units": [
+                        {
+                            "price": "$1,523+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$1,654+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,304+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$3,056+",
+                            "beds": "3"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "Modera Metro Dadeland",
+                    "isBuilding": true,
+                    "address": "8215 SW 72nd Ave, Miami, FL",
+                    "addressStreet": "8215 SW 72nd Ave Apt 312",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33143",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "25.691017--80.3658",
+                    "id": "25.691017--80.3658",
+                    "imgSrc": "https://photos.zillowstatic.com/p_e/IS7680kgkh5i630000000000.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Four Quarters Apartments and Townhomes",
+                    "detailUrl": "/b/four-quarters-apartments-and-townhomes-miami-fl-5XhxHp/",
+                    "latLong": {
+                        "latitude": 25.691017,
+                        "longitude": -80.3658
+                    },
+                    "units": [
+                        {
+                            "price": "$1,380+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$1,689+",
+                            "beds": "2"
+                        }
+                    ],
+                    "commute": null,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "buildingName": "Four Quarters Apartments and Townhomes",
+                    "isBuilding": true,
+                    "address": "8337 SW 107th Ave, Miami, FL",
+                    "addressStreet": "8337 SW 107th Ave # 353B",
+                    "addressState": "FL",
+                    "addressCity": "Miami",
+                    "addressZipcode": "33173",
+                    "has3DModel": false,
+                    "list": true,
+                    "relaxed": false
+                }
+            ],
+            "resultsHash": "5e82ffe2",
+            "relaxedResults": [],
+            "relaxedResultsHash": "1"
+        },
+        "searchList": {
+            "expansionDistance": 0,
+            "isCollectionView": false,
+            "staticBaseUrl": "https://www.zillowstatic.com/static/",
+            "zeroResultsFilters": null,
+            "pagination": {
+                "nextUrl": "/homes/for_rent/0_singlestory/days_sort/25.9015227616211,-80.04649518896483,25.643674177628945,-80.44818281103514_rect/2_p/0_z/",
+                "previousUrl": "/homes/"
+            },
+            "message": null,
+            "adsConfig": {
+                "navAdSlot": "zillow/search_results/rent_general/search_1",
+                "displayAdSlot": "zillow/search_results/rent_general/b_right_p1",
+                "targets": {},
+                "needsUpdate": false
+            },
+            "coShoppingConfig": {
+                "isEnabled": false,
+                "shouldShowUpsellDialog": false,
+                "shouldShowAcceptDialog": false,
+                "inviterName": null,
+                "gaLabel": "invite_email_notloggedin"
+            },
+            "totalResultCount": 4458,
+            "resultsPerPage": 40,
+            "totalPages": 20,
+            "listResultsTitle": "Rental Listings"
+        }
+    },
+    "categoryTotals": {
+        "cat1": {
+            "totalResultCount": 4458
+        },
+        "cat2": {
+            "totalResultCount": 252
+        }
+    }
+}
